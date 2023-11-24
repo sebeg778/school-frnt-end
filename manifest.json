@@ -1,0 +1,14 @@
+{
+    "name": "Blog o drzewach",
+    "theme_color": "#1da342",
+    "background_color": "#13bf8c",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/school-frnt-end",
+    "icons": {
+        "src": "./cat.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }
+}
